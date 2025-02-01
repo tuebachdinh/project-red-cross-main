@@ -1,7 +1,7 @@
 # Volunteer Matching System (VMS)
 
 ## Overview
-The Volunteer Matching System (VMS) is a database-driven application designed to match volunteers with volunteering opportunities based on their skills, interests, and travel readiness. This project is developed as part of the **CS-A1155 Databases for Data Science 2024** course at Aalto University in collaboration with the Finnish Red Cross (FRC).
+The Volunteer Matching System (VMS) is a database-driven application designed to match volunteers with volunteering opportunities based on their skills, interests, and travel readiness. This project is developed at **Aalto University** in collaboration with the **Finnish Red Cross (FRC).**
 
 ## Team Members
 - Xuan Loc Le
